@@ -1,3 +1,4 @@
 adding new file to git
 
 new fiels are added
+get the files to edit
